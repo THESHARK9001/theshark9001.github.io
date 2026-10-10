@@ -17,8 +17,8 @@ div.gallery-item {
     width: calc(25% - 20px);
     margin-left: auto;
     margin-right: auto;
-    margin-top: auto;
-    margin-bottom: auto;
+    margin-top: auto + 5px;
+    margin-bottom: auto + 5px;
 }
 
 div.gallery-item:hover {
