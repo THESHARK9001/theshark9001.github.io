@@ -6,6 +6,8 @@ body {
 .topnav {
   overflow: hidden;
   background-color: #666;
+  position: fixed;
+  top: 0%;
 }
 
 .topnav a {

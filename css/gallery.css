@@ -10,6 +10,13 @@ div.gallery {
     justify-content: flex-start;
 }
 
+div.first {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    margin-top: 50px;
+}
+
 div.gallery-item {
     margin: 5px;
     padding: 20px;
